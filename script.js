@@ -1,0 +1,1 @@
+(JS FROM CANVAS — truncated in this example for space)
